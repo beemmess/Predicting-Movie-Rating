@@ -1,5 +1,4 @@
 # Machine Learning Engineer Nanodegree
-# Capstone Project
 ## Project: Predicting movie score
 
 ### Install
