@@ -1,4 +1,3 @@
-# Machine Learning Engineer Nanodegree
 ## Project: Predicting movie score
 
 ### Install
